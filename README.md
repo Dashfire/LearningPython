@@ -18,3 +18,11 @@
 <p>
     This function is iterating through the Fibonacci sequence using recursion with the function Fibo1 and the function Fibo2 is doing the same with a for loop.
 </p>
+<div>
+    <h3>
+    <a href="https://github.com/Dashfire/LearningPython/blob/main/Decimal%20to%20Binary.py)">Decimal to Binary</a>
+    </h3>
+</div>
+<p>
+    This programm converts a decimal number into a 16bit binary number . The second function called BinaryToDecimal converts an binary number into a decimal number. 
+</p>
