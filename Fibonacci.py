@@ -12,5 +12,3 @@ def Fibo2(x):
         Num1 = Num2
         Num2 = Num3
     return Num3
-
-print(Fibo1())
