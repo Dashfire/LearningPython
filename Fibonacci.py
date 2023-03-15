@@ -13,4 +13,4 @@ def Fibo2(x):
         Num2 = Num3
     return Num3
 
-print(Fibo1(11))
+print(Fibo1())
