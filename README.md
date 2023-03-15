@@ -20,7 +20,7 @@
 </p>
 <div>
     <h3>
-    <a href="https://github.com/Dashfire/LearningPython/blob/main/Decimal%20to%20Binary.py)">Decimal to Binary</a>
+    <a href="https://github.com/Dashfire/LearningPython/blob/main/Decimal%20to%20Binary.py">Decimal to Binary</a>
     </h3>
 </div>
 <p>
