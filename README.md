@@ -32,7 +32,7 @@
     </h3>
 </div>
 <p>
-   This Function returns the factorial outcome of the given Input.
+   This Function returns the factorial outcome of the given input.
 </p>
 <div>
     <h3>
