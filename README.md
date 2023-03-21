@@ -26,3 +26,19 @@
 <p>
     This programm converts a decimal number into a 16bit binary number . The second function called BinaryToDecimal converts an binary number into a decimal number. 
 </p>
+<div>
+    <h3>
+    <a href="https://github.com/Dashfire/LearningPython/blob/main/Factorial%20Finder.py">Factorial Finder</a>
+    </h3>
+</div>
+<p>
+   This Algorithm returns the factorial Outcome of the given Input.
+</p>
+<div>
+    <h3>
+    <a href="https://github.com/Dashfire/LearningPython/blob/main/Collatz%20Conjecture.py">Collatz Conjecture</a>
+    </h3>
+</div>
+<p>
+    This programm finds the number of steps needed to get to 1 in the Collatz Conjecture also known as the 3n+1 Problem.
+</p>
