@@ -16,7 +16,7 @@
     </h3>
 </div>
 <p>
-    This function is iterating through the Fibonacci sequence using recursion with the function Fibo1 and the function Fibo2 is doing the same with a for loop.
+    This programm is iterating through the Fibonacci sequence using recursion with the function Fibo1 and the function Fibo2 is doing the same with a for loop.
 </p>
 <div>
     <h3>
@@ -32,7 +32,7 @@
     </h3>
 </div>
 <p>
-   This Algorithm returns the factorial Outcome of the given Input.
+   This Function returns the factorial outcome of the given Input.
 </p>
 <div>
     <h3>
@@ -40,5 +40,5 @@
     </h3>
 </div>
 <p>
-    This programm finds the number of steps needed to get to 1 in the Collatz Conjecture also known as the 3n+1 Problem.
+    This Function finds the number of steps needed to get to 1 in the Collatz Conjecture also known as the 3n+1 Problem.
 </p>
