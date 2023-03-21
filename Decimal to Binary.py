@@ -2,9 +2,9 @@ binaryNumber = '1100'
 binary = list(binaryNumber)
 binary.reverse()
 
-def DecimalToBinary(deciNumber,amountOfBits):
+def DecimalToBinary(deciNumber):
     binaryOutput = []
-    for i in range(amountOfBits):
+    for i in range(16):
         helpNumber = deciNumber % 2
         deciNumber = deciNumber // 2
         numberToString = str(helpNumber)
