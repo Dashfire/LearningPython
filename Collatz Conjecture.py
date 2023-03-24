@@ -1,4 +1,4 @@
-def Collatz (Input, Depth):
+def Collatz (Input: int, Depth: int):
     if Input == 1:
         return Depth
     else:
@@ -8,5 +8,5 @@ def Collatz (Input, Depth):
             return (Collatz(Input * 3 + 1, Depth+1))
         
 
-
-print ("The Number of Steps to 1 are", Collatz(5,0))
+Input = input("Type an Integer: ")
+print ("The Number of Steps to 1 are", Collatz(int(Input),0))
