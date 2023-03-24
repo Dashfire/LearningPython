@@ -2,7 +2,7 @@ binaryNumber = '1100'
 binary = list(binaryNumber)
 binary.reverse()
 
-def DecimalToBinary(deciNumber):
+def DecimalToBinary( deciNumber: int):
     binaryOutput = []
     for i in range(16):
         helpNumber = deciNumber % 2
@@ -13,7 +13,7 @@ def DecimalToBinary(deciNumber):
     return ''.join(binaryOutput)
 
 
-def BinaryToDecimal(binNumber):
+def BinaryToDecimal(binNumber: list):
     decimalNumber = 0
     for i in range(len(binNumber)):
         helpNumber = decimalNumber + int(binNumber[i]) * (2**i)
